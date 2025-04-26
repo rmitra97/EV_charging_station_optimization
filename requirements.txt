@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+folium
+shapely
+scikit-learn
+xgboost
+pulp
+squarify
+scipy
